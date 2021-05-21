@@ -1,0 +1,286 @@
+packages:
+
+  autoconf:
+    version:
+    - 2.70
+    externals:
+    - spec: autoconf@2.70
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/autoconf-2.70-m63evqgaz3tj6pnb7mofgygvrdtcpu6t
+      buildable: False
+
+  automake:
+    version:
+    - 1.16.2
+    externals:
+    - spec: automake@1.16.2
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/automake-1.16.2-higsxyugjnoi6s2tzzinykfymuegy3zi
+      buildable: False
+
+  berkeley-db:
+    version:
+    - 18.1.40
+    externals:
+    - spec: berkeley-db@18.1.40
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/berkeley-db-18.1.40-v24nuszqm5563pfypytj6fqplhivvlad
+      buildable: False
+
+  binutils:
+    version:
+    - 2.33.1
+    externals:
+    - spec: binutils@2.33.1
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/binutils-2.33.1-uvf3io3u2a55o5bgfrditbzsy2uhtzwg
+      buildable: False
+
+  boost:
+    version:
+    - 1.74.0
+    externals:
+    - spec: boost@1.74.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/boost-1.74.0-bf233nsdzx252c5f5sjkohe47x5hkkau
+      buildable: False
+
+  bzip2:
+    version:
+    - 1.0.8
+    externals:
+    - spec: bzip2@1.0.8
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/bzip2-1.0.8-5eajehr3r53yrlp32pzgfz4mg4a3doxa
+      buildable: False
+
+  cmake:
+    version:
+    - 3.18.4
+    externals:
+    - spec: cmake@3.18.4
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/cmake-3.18.4-kbvwx4ihmjpz5vigtmq6uvhuk6spxvd3
+      buildable: False
+
+  diffutils:
+    version:
+    - 3.7
+    externals:
+    - spec: diffutils@3.7
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/diffutils-3.7-mbtyevwo3xgixpcoe7genf6teyjkq5ye
+      buildable: False
+
+  elfutils:
+    version:
+    - 0.182
+    externals:
+    - spec: elfutils@0.182
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/elfutils-0.182-kjf3vyejp6qd2fb7cfzz4le5yw4o2m7v
+      buildable: False
+
+  expat:
+    version:
+    - 2.2.10
+    externals:
+    - spec: expat@2.2.10
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/expat-2.2.10-f3x3ct24dpw62utnvaxwtandlrnvw7sk
+      buildable: False
+
+  gdbm:
+    version:
+    - 1.18.1
+    externals:
+    - spec: gdbm@1.18.1
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/gdbm-1.18.1-pwlzsrtucarbh3sa2gw5in3oehwyeetj
+      buildable: False
+
+  gettext:
+    version:
+    - 0.21
+    externals:
+    - spec: gettext@0.21
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/gettext-0.21-wwwjntnwfht46gwvxyypxwvkzzchf4he
+      buildable: False
+
+  help2man:
+    version:
+    - 1.47.11
+    externals:
+    - spec: help2man@1.47.11
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/help2man-1.47.11-pxfw42bbqbvubbwctgx46oqwozlux32o
+      buildable: False
+
+  libbsd:
+    version:
+    - 0.10.0
+    externals:
+    - spec: libbsd@0.10.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libbsd-0.10.0-x3ixld5mv65yw7ka64dsvhgvavuxbddi
+      buildable: False
+
+  libffi:
+    version:
+    - 3.3
+    externals:
+    - spec: libffi@3.3
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libffi-3.3-dptbvuznlwgk7sw26i3vpmmoh6cfeuhi
+      buildable: False
+
+  libiconv:
+    version:
+    - 1.16
+    externals:
+    - spec: libiconv@1.16
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libiconv-1.16-bubp7kwfcaqrobcppfiztf6rehmdxrtp
+      buildable: False
+
+  libsigsegv:
+    version:
+    - 2.12
+    externals:
+    - spec: libsigsegv@2.12
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libsigsegv-2.12-ua2e7alsl33kjkdjae2yif2mqrqbtb37
+      buildable: False
+
+  libtool:
+    version:
+    - 2.4.6
+    externals:
+    - spec: libtool@2.4.6
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libtool-2.4.6-bav4uyhkpqc7jo64kpjac7l5ki3bangz
+      buildable: False
+
+  libunwind:
+    version:
+    - 1.4.0
+    externals:
+    - spec: libunwind@1.4.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libunwind-1.4.0-sko5p52wzvsc3inqkdfeq2gniu665fde
+      buildable: False
+
+  libxml2:
+    version:
+    - 2.9.10
+    externals:
+    - spec: libxml2@2.9.10
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/libxml2-2.9.10-tzbkrp6hdgbkezn4efgl4lku2jxajblh
+      buildable: False
+
+  m4:
+    version:
+    - 1.4.18
+    externals:
+    - spec: m4@1.4.18
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/m4-1.4.18-bhbkllz7rp5y6mhxw5ybvhlpcbfcqq4k
+      buildable: False
+
+  ncurses:
+    version:
+    - 6.2
+    externals:
+    - spec: ncurses@6.2
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/ncurses-6.2-uddmhoxqunm2d4y2y5xrvg4xtiwh4wx6
+      buildable: False
+
+  numactl:
+    version:
+    - 2.0.12
+    externals:
+    - spec: numactl@2.0.12
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/numactl-2.0.14-3qmf6sely362v27qya5qnb67svzd4uxn
+      buildable: False
+##    externals:
+#    - spec: numactl@2.0.14
+#      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/numactl-2.0.14-3qmf6sely362v27qya5qnb67svzd4uxn
+#      buildable: False
+#
+  openblas:
+    version:
+    - 0.3.10
+    externals:
+    - spec: openblas@0.3.10
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/openblas-0.3.10-l4imilqwjxakcs6zj37fouxgkcm7gi4i
+      buildable: False
+
+  openssl:
+    version:
+    - 1.1.1k
+    externals:
+    - spec: openssl@1.1.1k
+      prefix: /usr
+      buildable: False
+
+  perl:
+    version:
+    - 5.32.0
+    externals:
+    - spec: perl@5.32.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/perl-5.32.0-pbw65fvejwdwswn2idbhnfipn3h4iyec
+      buildable: False
+
+  pkgconf:
+    version:
+    - 1.7.3
+    externals:
+    - spec: pkgconf@1.7.3
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/pkgconf-1.7.3-by2gksyfhjlsx2zzhxugfixrdykw6h54
+      buildable: False
+
+  python:
+    version:
+    - 3.8.6
+    externals:
+    - spec: python@3.8.6
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/python-3.8.6-ss4tavenmb6gf5kalqjbqfey3vugj5ex
+      buildable: False
+
+  readline:
+    version:
+    - 8.0
+    externals:
+    - spec: readline@8.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/readline-8.0-5rx6icfeflietdqhq5risogwevxzv7kp
+      buildable: False
+
+  sqlite:
+    version:
+    - 3.33.0
+    externals:
+    - spec: sqlite@3.33.0
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/sqlite-3.33.0-znxz4b4hwy4ze5vf7drabcf3oiw4swpm
+      buildable: False
+
+  tar:
+    version:
+    - 1.32
+    externals:
+    - spec: tar@1.32
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/tar-1.32-xvhkcl4gadpfkfsoanh7mecz6pgkgai5
+      buildable: False
+
+  texinfo:
+    version:
+    - 6.5
+    externals:
+    - spec: texinfo@6.5
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/texinfo-6.5-vjgmoedei67epldc2fzgubugfswxbavz
+      buildable: False
+
+  util-linux-uuid:
+    version:
+    - 2.36.2
+    externals:
+    - spec: util-linux-uuid@2.36.2
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/util-linux-uuid-2.36.2-zdqr4ecgjlzb3lquldw3hq33lmzljjyi
+      buildable: False
+
+  xz:
+    version:
+    - 5.2.5
+    externals:
+    - spec: xz@5.2.5
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/xz-5.2.5-g76hqngsxxdy4f6hn5zsjuuniqtltmb6
+      buildable: False
+
+  zlib:
+    version:
+    - 1.2.11
+    externals:
+    - spec: zlib@1.2.11
+      prefix: /soft/spack/opt/spack/linux-opensuse_leap15-x86_64/gcc-10.2.0/zlib-1.2.11-34iycv2fvx5ptn33e3ilykrfsdfvozve
+      buildable: False
+
